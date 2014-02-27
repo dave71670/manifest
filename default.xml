@@ -8,10 +8,20 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
+           
+  <remote  name="aokp"
+           fetch="https://github.com/"
+           review="gerrit.aokp.co" />
 
   <remote  name="du"
            fetch="https://github.com/DirtyUnicorns-KitKat/" 
            review="gerrit.dirtyunicorns.com" />
+ 
+  <remote name="cm"
+          fetch="https://github.com/" />
+          
+  <remote  name="TheMuppets"
+           fetch="https://github.com/" />
 
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
