@@ -411,8 +411,8 @@
   <project path="bionic" name="android_bionic" remote="du" revision="du44" />
   <project path="bootable/recovery" name="bootable_recovery" remote="du" revision="du44"/>
   <project path="development" name="development" remote="du" revision="du44" />
-  <project path="device/lge/e980" name="AOKP/device_lge_e980" remote="aokp" revision="kitkat" />
-  <project path="device/lge/gproj-common" name="AOKP/device_lge_gproj-common" remote="aokp" revision="kitkat" />
+  <project path="device/lge/e980" name="CyanogenMod/android_device_lge_e980" remote="cm" revision="cm-11.0" />
+  <project path="device/lge/gproj-common" name="CyanogenMod/android_device_lge_gproj-common" remote="cm" revision="cm-11.0" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="du" revision="du44" />
   <project path="manifest" name="manifest" remote="du" revision="du44" />
   <project path="kernel/lge/gproj" name="CyanogenMod/lge-kernel-gproj" remote="cm" revision="cm-11.0" />
