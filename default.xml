@@ -409,7 +409,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="android_bionic" remote="du" revision="du44" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="du" revision="du44"/>
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="cm" revision="cm-11.0"/>
   <project path="development" name="development" remote="du" revision="du44" />
   <project path="device/lge/e980" name="CyanogenMod/android_device_lge_e980" remote="cm" revision="cm-11.0" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="du" revision="du44" />
